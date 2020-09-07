@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.huifer.ideapluginsdemo
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
